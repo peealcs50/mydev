@@ -222,3 +222,14 @@ input{
 .contact a{
     text-decoration: none;
 }
+.phone{
+    margin-left: 20px;
+    width: 160px;
+    height: 64px;
+    color: #FD6E0A;
+    font-weight: 700;
+    font-size: 20px;
+    background: #FFF8F3;
+    border: solid #FD6E0A;
+    border-radius: 5px;
+}
